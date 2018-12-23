@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545563771 source:c:\users\rizaldi\project\updatetime\main.c
+	<stdio.h>
+	<stdlib.h>
+
